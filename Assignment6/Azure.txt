@@ -1,0 +1,2 @@
+
+Web App was published successfully https://webapp060.azurewebsites.net/
